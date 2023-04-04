@@ -467,8 +467,8 @@ needmoreshare2:
 
 # Google Analytics
 google_analytics: 
- tracking_id: G-XHXG66JYK9
- only_pageview: false
+  tracking_id: G-XHXG66JYK9
+  only_pageview: false
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/

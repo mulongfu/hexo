@@ -361,8 +361,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: trur
+  shortname: mulongfu
   count: true
 
 # Hypercomments
@@ -655,7 +655,7 @@ tabs:
 
 # Use velocity to animate everything.
 motion:
-  enable: true
+  enable: false
   async: false
   transition:
     # Transition variants:

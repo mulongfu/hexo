@@ -5,11 +5,11 @@
 # Site
 title: Mulongfu's Note
 subtitle: 'Do one thing, and do it well'
-description: ''
-keywords:
+description: 'Some notes about coding, work, life'
+keywords: Life, Coding, Travel, Work
 author: Mulongfu
 language: zh-tw
-timezone: ''
+timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -103,3 +103,9 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

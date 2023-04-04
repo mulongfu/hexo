@@ -27,7 +27,7 @@
 #}</div>
 {% endif %}
 
-{% if theme.footer.powered and theme.footer.theme.enable %}
+<!--{% if theme.footer.powered and theme.footer.theme.enable %}
   <span class="post-meta-divider">|</span>
 {% endif %}
 
@@ -44,4 +44,4 @@
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
 #}</div>
-{% endif %}
+{% endif %}-->

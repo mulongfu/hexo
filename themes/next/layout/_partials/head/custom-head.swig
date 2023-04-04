@@ -1,5 +1,3 @@
-{
-Custom head.
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XHXG66JYK9"></script>
 <script>
@@ -9,4 +7,3 @@ Custom head.
 
   gtag('config', 'G-XHXG66JYK9');
 </script>
-}

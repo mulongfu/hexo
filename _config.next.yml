@@ -93,14 +93,14 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: / || fa-home
-  about: /about/ || fa-user
-  tags: /tags/ || fa-tags
-  categories: /categories/ || fa-th
-  archives: /archives/ || fa-archive
-  #schedule: /schedule/ || fa fa-calendar
-  sitemap: /sitemap.xml || fa-sitemap
-  #commonweal: /404/ || fa fa-heartbeat
+  home: / || home
+  about: /about/ || user
+  tags: /tags/ || tags
+  categories: /categories/ || th
+  archives: /archives/ || archive
+  #schedule: /schedule/ || calendar
+  #sitemap: /sitemap.xml || sitemap
+  #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -463,7 +463,7 @@ needmoreshare2:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: 6ohw1K4AwW-QEvL9NPL9Oqa9js_nT-IO0lBSCXNOHI0
+#google_site_verification:
 
 # Google Analytics
 #google_analytics:

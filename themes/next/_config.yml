@@ -443,22 +443,22 @@ gitment:
 #           Delicious,StumbleUpon,Pinterest,Facebook,GooglePlus,Slashdot,
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
-needmoreshare2:
-  enable: false
-  postbottom:
-    enable: false
-    options:
-      iconStyle: box
-      boxForm: horizontal
-      position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
-  float:
-    enable: false
-    options:
-      iconStyle: box
-      boxForm: horizontal
-      position: middleRight
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+# needmoreshare2:
+#   enable: false
+#   postbottom:
+#     enable: false
+#     options:
+#       iconStyle: box
+#       boxForm: horizontal
+#       position: bottomCenter
+#       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+#   float:
+#     enable: false
+#     options:
+#       iconStyle: box
+#       boxForm: horizontal
+#       position: middleRight
+#       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/

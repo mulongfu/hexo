@@ -1,9 +1,9 @@
 ---
-title: [Leetcode] Binary Search - (Easy)704、(Medium)34
+title: Binary Search - (Easy)704、(Medium)34
 date: 2023-05-06 23:20:56
 tags: 
-- [c++]
-- [leetcode]
+- [C++]
+- [Leetcode]
 categories:
 - [Leetcode]
 ---
@@ -56,6 +56,7 @@ Output: [3,4]
 Input: nums = [5,7,7,8,8,10], target = 6
 Output: [-1,-1]
 ```
+
 直覺想法是，先找出target在不在vector內，如果在的話，則用兩個variable，再找target的起點和終點。
 
 ```cpp

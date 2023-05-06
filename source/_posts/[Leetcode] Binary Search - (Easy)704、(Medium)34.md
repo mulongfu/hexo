@@ -1,5 +1,5 @@
 ---
-title: Binary Search - (Easy)704、(Medium)34
+title: \[Leetcode\] Binary Search - (Easy)704、(Medium)34
 date: 2023-05-06 23:20:56
 tags: 
 - [C++]
